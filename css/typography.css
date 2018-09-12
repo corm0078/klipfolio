@@ -41,7 +41,8 @@ p {
   font-family: "galano-regular", sans-serif;
   font-size: 14px;
   line-height: 26px;
-  color: #000000;	
+  color: #000000;
+  letter-spacing: 0.0625em;	
   margin: 4px;
 }
 
