@@ -200,6 +200,7 @@ nav ul{
 
 .intro{
 	padding-top: 48px;
+	margin-top: 40px;
 	padding-bottom: 48px;
 	padding: 32px;
 }
@@ -278,7 +279,7 @@ h3 a{
 	}
 
 	.self-img{
-		width: 70%;
+		width: 60%;
 		float: right;
 		left: 0;
 		margin-left: 0;
@@ -500,7 +501,7 @@ h3 a{
 		max-height: 440px;
 		float: left;
 		left: 0;
-		width: 70%;
+		width: 60%;
 		position: absolute;
 	}
 
@@ -539,7 +540,7 @@ h3 a{
 
 .chat{
 	margin: 32px 32px 0px 32px;
-	padding: 80px;
+	padding: 40px;
 	background-color: #FAEEE2;
 	text-align: center;
 }
@@ -589,6 +590,7 @@ h3 a{
 	.chat{
 		position: relative;
 		margin-top: 548px;
+		padding: 80px;
 	}
 
 	.chat ul{
@@ -684,6 +686,16 @@ h3 a{
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 62px 48px 62px 48px;
+}
+
+.project-text-items h3{
+
+	padding-bottom: 24px;
+}
+
+.project-text h3{
+
+	padding-bottom: 24px;
 }
 
 
